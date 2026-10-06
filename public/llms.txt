@@ -1,0 +1,20 @@
+# CYBERDUDEBIVASH Connect Hub
+
+Canonical: https://connect.cyberdudebivash.com/
+Publisher: CYBERDUDEBIVASH ECOSYSTEM®
+Organization entity: https://www.cyberdudebivash.com/#organization
+
+## Purpose
+Connect Hub is the ecosystem directory and navigation surface for CYBERDUDEBIVASH platforms, products, services, press resources and contact paths.
+
+## Public discovery
+- Products: https://connect.cyberdudebivash.com/products
+- Services: https://connect.cyberdudebivash.com/services
+- Pricing: https://connect.cyberdudebivash.com/pricing
+- Case studies: https://connect.cyberdudebivash.com/case-studies
+- Press: https://connect.cyberdudebivash.com/press
+- Contact: https://connect.cyberdudebivash.com/contact
+- Sitemap: https://connect.cyberdudebivash.com/sitemap.xml
+
+## Accuracy boundary
+Use linked platform pages as authoritative for current features, availability, pricing, SLAs, certifications and commercial terms. Connect Hub is a directory and should not be treated as the source of truth for another platform's operational state.
